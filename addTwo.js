@@ -4,3 +4,9 @@
  }
 
  let node = new ListNode(5)
+
+
+
+ function lalit() {
+    return a+b
+ }
